@@ -18,3 +18,17 @@ La presentazione è composta da **5 capitoli**:
 - **Analisi di bilancio**. Analisi per indici, composta dalla riclassificazione del bilancio consolidato del gruppo e dall'analisi della redditività e finanziaria.
 - **Business Model**. Analisi del Business Model Canvas del settore autostradale, con relativi approfondimenti per ogni sezione.
 - **Analisi dei ricavi e dei costi**. Breve analisi per i ricavi del servizio autostradale, per poi passare all'analisi dei costi.
+
+## Come abbiamo lavorato
+
+Abbiamo deciso inizialmente di non suddividerci il lavoro in maniera _troppo_ netta, ma di lavorare insieme al progetto nella sua interezza. 
+Una piccola suddivisione però c'è stata: date le nostre diverse competenze nei diversi ambiti che dovevamo affrontare, ognuno di noi si è occupato di un aspetto del progetto, come la cura della documentazione oppure della grafica. 
+Più precisamente:
+- Leonardo si è occupato della documentazione, visto che aveva già avuto esperienza con altre documentazioni di altri progetti.
+- Dario invece ha preso a cura il file excel dell'analisi di bilancio, dato il suo background di studi precedenti all'università.
+- Invece io mi sono occupato del design e della grafica della presentazione, data la mia passione per l'ambito della UX e UI.
+
+## Cosa ho appreso con il progetto
+
+Parlando ora della mia esperienza personale _(Gianmaria)_, ho appreso come avviene la ricerca dei dati e la loro analisi, scartando gli elementi superflui e non necessari, anche se interessanti; lavorando in team ho fatto esperienza sul come coordinarsi tra colleghi, come risolvere problemi e anche confrontarsi sul lavoro svolto e da svolgere. 
+Penso che questo progetto faccia capire come lavorare anche per la tesi futura, dall'analisi dei dati al rispetto delle tempistiche, anche durante la presentazione.
