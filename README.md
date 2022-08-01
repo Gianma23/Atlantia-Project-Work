@@ -1,6 +1,6 @@
 # Atlantia-Project-Work
-Project work for the 6CFU course of Economy and Business Organization of the Computer Engineering degree at the University of Pisa.
-## MonkeyTech, our team.
+Project work per il corso di 6 CFU 'Economia e Organizzazione aziendale' della laurea in Ingegneria Informatica all'università di Pisa.
+## MonkeyTech, il nostro team.
 Gianmaria Saggini
 Leonardo Ceccarelli
 Dario Paroli
